@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Masab Khan\\source\\repos\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj",
+      "projectUniqueName": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj",
       "projectName": "ShopBlaze",
-      "projectPath": "C:\\Users\\Masab Khan\\source\\repos\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj",
+      "projectPath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj",
       "packagesPath": "C:\\Users\\Masab Khan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Masab Khan\\source\\repos\\ShopBlaze\\ShopBlaze\\obj\\",
+      "outputPath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Masab Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",

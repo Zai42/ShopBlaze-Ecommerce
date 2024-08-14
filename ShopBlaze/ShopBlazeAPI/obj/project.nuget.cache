@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5BOrwRx6ZU=",
+  "success": true,
+  "projectFilePath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\ShopBlazeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Masab Khan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\Masab Khan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\Masab Khan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

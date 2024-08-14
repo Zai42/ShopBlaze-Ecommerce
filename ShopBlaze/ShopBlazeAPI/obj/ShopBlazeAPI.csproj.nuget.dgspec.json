@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj": {}
+    "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\ShopBlazeAPI.csproj": {}
   },
   "projects": {
-    "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj": {
+    "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\ShopBlazeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj",
-        "projectName": "ShopBlaze",
-        "projectPath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\ShopBlaze.csproj",
+        "projectUniqueName": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\ShopBlazeAPI.csproj",
+        "projectName": "ShopBlazeAPI",
+        "projectPath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\ShopBlazeAPI.csproj",
         "packagesPath": "C:\\Users\\Masab Khan\\.nuget\\packages\\",
-        "outputPath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\",
+        "outputPath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Masab Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,6 +70,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[8.0.7, 8.0.7]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

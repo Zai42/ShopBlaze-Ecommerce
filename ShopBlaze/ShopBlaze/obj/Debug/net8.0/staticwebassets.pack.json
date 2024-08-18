@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopBlaze.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopBlaze.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopBlaze.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopBlaze.props",
+      "PackagePath": "build\\ShopBlaze.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopBlaze.props",
+      "PackagePath": "buildMultiTargeting\\ShopBlaze.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopBlaze.props",
+      "PackagePath": "buildTransitive\\ShopBlaze.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

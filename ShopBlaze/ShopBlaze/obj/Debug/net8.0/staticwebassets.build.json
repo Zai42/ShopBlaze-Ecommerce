@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "OLHkQ8Yke0erx1u+S6Yyfx9pKyTQxj3rSlTyF1H4vvU=",
+  "Source": "ShopBlaze",
+  "BasePath": "_content/ShopBlaze",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShopBlaze\\wwwroot",
+      "Source": "ShopBlaze",
+      "ContentRoot": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\wwwroot\\",
+      "BasePath": "_content/ShopBlaze",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShopBlaze.styles.css",
+      "SourceId": "ShopBlaze",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ShopBlaze",
+      "RelativePath": "ShopBlaze.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShopBlaze.styles.css"
+    },
+    {
+      "Identity": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopBlaze.bundle.scp.css",
+      "SourceId": "ShopBlaze",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ShopBlaze",
+      "RelativePath": "ShopBlaze.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopBlaze.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\wwwroot\\app.css",
+      "SourceId": "ShopBlaze",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlaze\\wwwroot\\",
+      "BasePath": "_content/ShopBlaze",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

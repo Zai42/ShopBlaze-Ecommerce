@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopBlaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+786b761ecd41d5dfbfa65b9132897b379ac807d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0511eb270696406f13f822824c10d82026e269de")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopBlaze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopBlaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

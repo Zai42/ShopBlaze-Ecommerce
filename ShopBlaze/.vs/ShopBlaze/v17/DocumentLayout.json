@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{725F4682-3FC4-43E6-A3EB-54013CF6593C}|ShopBlazeAPI\\ShopBlazeAPI.csproj|d:\\shopblaze-ecommerce\\shopblaze\\shopblazeapi\\shopblazeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{725F4682-3FC4-43E6-A3EB-54013CF6593C}|ShopBlazeAPI\\ShopBlazeAPI.csproj|solutionrelative:shopblazeapi\\shopblazeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725F4682-3FC4-43E6-A3EB-54013CF6593C}|ShopBlazeAPI\\ShopBlazeAPI.csproj|d:\\shopblaze-ecommerce\\shopblaze\\shopblazeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725F4682-3FC4-43E6-A3EB-54013CF6593C}|ShopBlazeAPI\\ShopBlazeAPI.csproj|solutionrelative:shopblazeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{725F4682-3FC4-43E6-A3EB-54013CF6593C}|ShopBlazeAPI\\ShopBlazeAPI.csproj|d:\\shopblaze-ecommerce\\shopblaze\\shopblazeapi\\controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725F4682-3FC4-43E6-A3EB-54013CF6593C}|ShopBlazeAPI\\ShopBlazeAPI.csproj|solutionrelative:shopblazeapi\\controller\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShopBlazeAPI",
+              "DocumentMoniker": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\ShopBlazeAPI.csproj",
+              "RelativeDocumentMoniker": "ShopBlazeAPI\\ShopBlazeAPI.csproj",
+              "ToolTip": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\ShopBlazeAPI.csproj",
+              "RelativeToolTip": "ShopBlazeAPI\\ShopBlazeAPI.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T08:57:16.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShopBlazeAPI\\Program.cs",
+              "ToolTip": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\Program.cs",
+              "RelativeToolTip": "ShopBlazeAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:45:46.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "APIController.cs",
               "DocumentMoniker": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\Controller\\APIController.cs",
               "RelativeDocumentMoniker": "ShopBlazeAPI\\Controller\\APIController.cs",
               "ToolTip": "D:\\ShopBlaze-Ecommerce\\ShopBlaze\\ShopBlazeAPI\\Controller\\APIController.cs",
               "RelativeToolTip": "ShopBlazeAPI\\Controller\\APIController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:20:17.347Z",
+              "WhenOpened": "2024-08-18T08:18:13.149Z",
               "EditorCaption": ""
             }
           ]

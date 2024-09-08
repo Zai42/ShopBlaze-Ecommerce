@@ -1,7 +1,56 @@
 ﻿@page "/"
+<!-- Header -->
+<header class="bg-primary text-white text-center py-5">
+<div class="container">
+    <h1>Welcome to MyShop</h1>
+    <button class="btn btn-primary" @onclick="GetProducts">Find Products</button>
+</div>
+</header>
 
-<h3>Index</h3>
+<!-- Product Section -->
+<section class="container my-5">
+<div class="row">
+    <!-- Example Product -->
+    <div class="col-md-4">
+        <div class="card">
+            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Product 1">
+            <div class="card-body">
+                <h5 class="card-title">Product 1</h5>
+                <p class="card-text">This is a short description of the product.</p>
+                <p class="card-text"><strong>$19.99</strong></p>
+                <a href="#" class="btn btn-primary">Add to Cart</a>
+            </div>
+        </div>
+    </div>
+    <!-- Example Product -->
+    <div class="col-md-4">
+        <div class="card">
+            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Product 2">
+            <div class="card-body">
+                <h5 class="card-title">Product 2</h5>
+                <p class="card-text">This is a short description of the product.</p>
+                <p class="card-text"><strong>$29.99</strong></p>
+                <a href="#" class="btn btn-primary">Add to Cart</a>
+            </div>
+        </div>
+    </div>
+    <!-- Example Product -->
+    <div class="col-md-4">
+        <div class="card">
+            <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Product 3">
+            <div class="card-body">
+                <h5 class="card-title">Product 3</h5>
+                <p class="card-text">This is a short description of the product.</p>
+                <p class="card-text"><strong>$39.99</strong></p>
+                <a href="#" class="btn btn-primary">Add to Cart</a>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 
-@code {
+    
 
-}
+
+
+

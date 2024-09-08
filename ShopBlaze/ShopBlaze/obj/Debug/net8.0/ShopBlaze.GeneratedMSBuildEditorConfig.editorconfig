@@ -26,12 +26,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIb21lXEluZGV4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ShopBlaze-Ecommerce/ShopBlaze/ShopBlaze/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ShopBlaze-Ecommerce/ShopBlaze/ShopBlaze/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+[D:/ShopBlaze-Ecommerce/ShopBlaze/ShopBlaze/Components/Layout/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRXJyb3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ShopBlaze-Ecommerce/ShopBlaze/ShopBlaze/Components/Routes.razor]

@@ -11,5 +11,8 @@ public partial class ProductImage
 
     public byte[]? Images { get; set; }
 
+    public string ImageName { get; set; }
+
     public virtual Product? Product { get; set; }
+
 }

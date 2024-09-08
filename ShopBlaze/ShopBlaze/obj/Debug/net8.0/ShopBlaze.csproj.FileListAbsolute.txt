@@ -27,3 +27,8 @@ D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\obj\Debug\net8.0\refint\ShopBlaze.dll
 D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\obj\Debug\net8.0\ShopBlaze.pdb
 D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\obj\Debug\net8.0\ShopBlaze.genruntimeconfig.cache
 D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\obj\Debug\net8.0\ref\ShopBlaze.dll
+D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\obj\Debug\net8.0\ShopBlaze.csproj.AssemblyReference.cache
+D:\ShopBlaze-Ecommerce\ShopBlaze\ShopBlaze\obj\Debug\net8.0\ShopBlaze.csproj.Up2Date

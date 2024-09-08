@@ -4,8 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBlaze", "ShopBlaze\ShopBlaze.csproj", "{96E98BC9-66AA-4B68-9D57-50D9E51E146B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{725F4682-3FC4-43E6-A3EB-54013CF6593C} = {725F4682-3FC4-43E6-A3EB-54013CF6593C}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBlazeAPI", "ShopBlazeAPI\ShopBlazeAPI.csproj", "{725F4682-3FC4-43E6-A3EB-54013CF6593C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBlazeAPI", "ShopBlazeAPI\ShopBlazeAPI.csproj", "{725F4682-3FC4-43E6-A3EB-54013CF6593C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

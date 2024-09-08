@@ -1,10 +1,15 @@
 using ShopBlaze.Components;
-
+using ShopBlaze.Interface;
+using ShopBlaze.Repository;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddHttpClient();
+builder.Services.AddScoped<IShopBlazeRepo, ShopBlazeRepo>();
+
 
 var app = builder.Build();
 

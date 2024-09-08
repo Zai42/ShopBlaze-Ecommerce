@@ -6,18 +6,18 @@ namespace ShopBlazeAPI
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
-    public class APIController : Controller
+    public class API : Controller
     {
         private readonly IShopBlazeRepo _repository;
-        public APIController(IShopBlazeRepo repository)
+        public API(IShopBlazeRepo repository)
         {
             _repository = repository;
         }
         [HttpGet]
-        public async Task<IActionResult> GetProducts()
+        public async Task<List<ShopBlazeViewModel>> GetProducts()
         {
             //Get Complete Product Detail with Category and Images
-            return View(await _repository.ProductsFullDetail());
+            return await _repository.ProductsFullDetail();
         }
     }
 }

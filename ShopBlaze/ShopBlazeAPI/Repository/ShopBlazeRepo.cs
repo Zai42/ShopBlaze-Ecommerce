@@ -28,7 +28,8 @@ namespace ShopBlazeAPI.ShopBlazeRepositories
                                     ProductId = Product.Id,
                                     ProductName = Product.ProductName,
                                     Category = ProductCategory.CategoryName,
-                                    ProductImage = ProductImage.Images
+                                    ProductImage = ProductImage.Images,
+                                    ProductImageName = ProductImage.ImageName
                                 }).ToListAsync();
             return productFullDetail;
         }
